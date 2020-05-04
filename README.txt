@@ -1,4 +1,4 @@
-Our Movie App is designed for people to explore good movies, search movies and create personalized movie lists.
+Our Movie App is designed for people to explore good movies with the key features we provide.
 
 Our app has several key features:
 
