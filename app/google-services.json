@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899957368646",
+    "firebase_url": "https://final-3ab84.firebaseio.com",
+    "project_id": "final-3ab84",
+    "storage_bucket": "final-3ab84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899957368646:android:6081aa9dacc32544aca747",
+        "android_client_info": {
+          "package_name": "com.example.cse438.trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899957368646-l3o3fila7vpg8bh4i9nn93f167p10ft6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5pPqNo-PD9a5Sl2dDxkwVM-3ZPfW8bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899957368646-l3o3fila7vpg8bh4i9nn93f167p10ft6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
